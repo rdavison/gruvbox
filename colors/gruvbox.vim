@@ -1375,6 +1375,22 @@ hi! link jsonBraces GruvboxFg1
 hi! link jsonString GruvboxFg1
 
 " }}}
+" OCaml: {{{
+
+hi! link ocamlVal          GruvboxBlue
+hi! link ocamlModPreRHS    GruvboxBlue
+hi! link ocamlMPRestr2	   GruvboxBlue
+hi! link ocamlMethod	     GruvboxBlue
+hi! link ocamlFunDef	     GruvboxYellow
+hi! link ocamlRefAssign    GruvboxYellow
+hi! link ocamlKeyChar	     GruvboxYellow
+hi! link ocamlAnyVar	     GruvboxYellow
+hi! link ocamlTopStop	     GruvboxYellow
+hi! link ocamlOperator	   GruvboxYellow
+hi! link ocamlEncl	       GruvboxYellow
+hi! link ocamlConstructor	 GruvboxOrange
+
+" }}}
 
 
 " Functions -------------------------------------------------------------------
